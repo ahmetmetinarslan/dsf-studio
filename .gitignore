@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+artifacts/
+*.spec
+tools/*.zip
+tools/*.exe
+tools/runtime/
+tools/vendor/
+release/
+.devtools/
+examples/*.mp4
+.env
+.env.*
+*.log

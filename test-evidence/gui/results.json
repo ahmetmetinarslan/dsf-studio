@@ -1,0 +1,25 @@
+{
+  "passed": [
+    "100-image import",
+    "bounded 8-image preview cache",
+    "batch duration",
+    "undo redo",
+    "lock redistribution",
+    "duplicate",
+    "reorder",
+    "mouse rectangle selection",
+    "recovery",
+    "project roundtrip",
+    "Qt actual video frames",
+    "100-image render cancellation",
+    "existing output preservation",
+    "corrupt-file isolation"
+  ],
+  "import100Seconds": 86.292,
+  "peakPythonMiB": 307.18,
+  "maxGuiHeartbeatGapSeconds": 1.446,
+  "heartbeatTicks": 2361,
+  "cancelSeconds": 0.745,
+  "validVideoFrames": 36,
+  "imageCacheLimit": 8
+}

@@ -1,0 +1,73 @@
+{
+  "K01": {
+    "path": "<workspace>\\examples\\Ornek_Haber_80sn.mp4",
+    "elapsed": 255.33,
+    "peakMiB": 587.4,
+    "heartbeatTicks": 2333,
+    "maxHeartbeatGap": 0.125
+  },
+  "K18": {
+    "frames": 2000,
+    "timestamps": "all continuous 0.04 seconds",
+    "cutEndpointFramesChecked": 20,
+    "lastFrame": 1999,
+    "maxMeanPixelErrorAgainstIndependentlyRenderedEndpoints": 1.3899
+  },
+  "K08": {
+    "firstMiddleLastMaxDifference1080px": [
+      2,
+      2,
+      2
+    ],
+    "commonIntermediate": "3840x2160"
+  },
+  "K07": {
+    "fps": 50,
+    "frames": 112,
+    "duration": "2.240000",
+    "clipFrames": [
+      51,
+      61
+    ]
+  },
+  "K07_25fps": {
+    "fps": 25,
+    "frames": 26,
+    "duration": "1.040000"
+  },
+  "K04": {
+    "checkedFrames": 200,
+    "appliedAmount": 0.042204995693367664,
+    "allRegionsInsideSafeMargins": true
+  },
+  "K03_K09_partial": {
+    "panFrames": 200,
+    "minPixelStep": 0.0,
+    "maxPixelStep": 2.0,
+    "blankEdges": false,
+    "manualRealtimeInspection": "not performed"
+  },
+  "K13_cancel": {
+    "cancelled": true,
+    "elapsed": 7.623,
+    "peakMiB": 590.6,
+    "heartbeatTicks": 69,
+    "maxHeartbeatGap": 0.125,
+    "cancelLatency": 0.142
+  },
+  "K13_disk_full": {
+    "simulation": "disk_usage.free=0",
+    "result": "Yeterli boş disk alanı yok. Ara klipler ve son çıktı için yer açın.",
+    "existingOutputPreserved": true
+  },
+  "K12_missing": {
+    "result": "Dosya bulunamadı: <workspace>\\artifacts\\acceptance\\missing.png. Yeniden bağlayın."
+  },
+  "K16_K17": {
+    "rampMaxError8bit": 2,
+    "allStreams": 1,
+    "format": "yuv420p BT.709 limited progressive",
+    "overlays": "render path contains no overlay filters"
+  },
+  "complete": true
+}

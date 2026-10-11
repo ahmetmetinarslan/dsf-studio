@@ -1,0 +1,25 @@
+{
+  "OS": {
+    "Caption": "Microsoft Windows 11 Pro",
+    "Version": "10.0.26200",
+    "BuildNumber": "26200",
+    "TotalVisibleMemorySize": 16653556
+  },
+  "CPU": {
+    "Name": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+    "NumberOfCores": 6,
+    "NumberOfLogicalProcessors": 12
+  },
+  "Disks": [
+    {
+      "FriendlyName": "WDC WD10SPZX-21Z10T0",
+      "MediaType": "HDD",
+      "Size": 1000204886016
+    },
+    {
+      "FriendlyName": "KINGSTON SA400M8240G",
+      "MediaType": "SSD",
+      "Size": 240057409536
+    }
+  ]
+}

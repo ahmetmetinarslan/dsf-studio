@@ -1,0 +1,35 @@
+{
+  "app": "DSF Studio 1.0.0",
+  "python": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "tools": {
+    "ffmpeg": "ffmpeg version 8.0-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers",
+    "ffprobe": "ffprobe version 8.0-full_build-www.gyan.dev Copyright (c) 2007-2025 the FFmpeg developers"
+  },
+  "ffmpegConfiguration": "ffmpeg version 8.0-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers\r\nbuilt with gcc 15.2.0 (Rev8, Built by MSYS2 project)\r\nconfiguration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-libdvdnav --enable-libdvdread --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-liboapv --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-openal --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint --enable-whisper\r\nlibavutil      60.  8.100 / 60.  8.100\r\nlibavcodec     62. 11.100 / 62. 11.100\r\nlibavformat    62.  3.100 / 62.  3.100\r\nlibavdevice    62.  1.100 / 62.  1.100\r\nlibavfilter    11.  4.100 / 11.  4.100\r\nlibswscale      9.  1.100 /  9.  1.100\r\nlibswresample   6.  1.100 /  6.  1.100\r\n\r\nExiting with exit code 0\r\n",
+  "dependencies": {
+    "altgraph": "0.17.5",
+    "colorama": "0.4.6",
+    "iniconfig": "2.3.1",
+    "packaging": "26.3",
+    "pefile": "2023.2.7",
+    "pillow": "11.3.0",
+    "pip": "25.1.1",
+    "pluggy": "1.6.0",
+    "psutil": "7.0.0",
+    "Pygments": "2.21.0",
+    "pyinstaller": "6.15.0",
+    "pyinstaller-hooks-contrib": "2026.8",
+    "PySide6": "6.9.2",
+    "PySide6_Addons": "6.9.2",
+    "PySide6_Essentials": "6.9.2",
+    "pytest": "8.4.1",
+    "pywin32-ctypes": "0.2.3",
+    "setuptools": "84.0.0",
+    "shiboken6": "6.9.2"
+  },
+  "binaries": {
+    "ffmpeg": "81b5832f6c548d64feba0ec7d643397e2351d9f3460a65c6c296956045eebaea",
+    "ffprobe": "421dbc81a3d758dfe114534ff48ef47a61ef91896eb4b9e819609a8752ab8272"
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "schemaVersion": 1,
+  "name": "Örnek haber akışı · 10 görsel",
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fpsNum": 25,
+    "fpsDen": 1,
+    "container": "mp4",
+    "codec": "h264",
+    "audio": "none",
+    "colorProfile": "bt709_sdr_limited"
+  },
+  "safeArea": {
+    "preset": "ebu_graphics",
+    "left": 0.05,
+    "right": 0.05,
+    "top": 0.05,
+    "bottom": 0.05,
+    "rasterGuardPx": 2
+  },
+  "defaults": {
+    "maxZoom": 1.15,
+    "durationFrames": 200,
+    "easing": "linear",
+    "transition": "cut",
+    "background": "#000000"
+  },
+  "automation": {
+    "seed": 20261010,
+    "allowedMotions": [
+      "zoom_in",
+      "zoom_out",
+      "pan_left",
+      "pan_right",
+      "pan_up",
+      "pan_down"
+    ]
+  },
+  "clips": [
+    {
+      "sourcePath": "assets/haber_01_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "a7ed136bac0841679f436d1a98ea1f38",
+      "durationFrames": 200,
+      "motionRequested": "zoom_in",
+      "amount": 0.08,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": true,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "zoom_in",
+        "start": {
+          "z": 1.0,
+          "tx": 0.0,
+          "ty": 0.0
+        },
+        "end": {
+          "z": 1.08,
+          "tx": -0.040000000000000036,
+          "ty": -0.040000000000000036
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.08,
+        "applied": 0.08000000000000007,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 50075,
+        "mtimeNs": 1791739547575634200,
+        "sha256": "b007f0ddfcddee02a8a6d28b05b43b3e1b8aa450736da6487c1fa5ae51ed90cc"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_02_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "9ede4a17bb0549b7ba8046b0d3ab7ca0",
+      "durationFrames": 200,
+      "motionRequested": "zoom_out",
+      "amount": 0.08,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "zoom_out",
+        "start": {
+          "z": 1.08,
+          "tx": -0.040000000000000036,
+          "ty": -0.040000000000000036
+        },
+        "end": {
+          "z": 1.0,
+          "tx": 0.0,
+          "ty": 0.0
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.08,
+        "applied": 0.08000000000000007,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 51123,
+        "mtimeNs": 1791739547626081000,
+        "sha256": "d59522d93c93680be7281f58b5a09dc10131cf96e94ad7f374bd682affd2382a"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_03_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "1f7fe8ed61404b5597c0066a489abb8f",
+      "durationFrames": 200,
+      "motionRequested": "pan_left",
+      "amount": 0.1,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "pan_left",
+        "start": {
+          "z": 1.1,
+          "tx": -0.10000000000000005,
+          "ty": -0.050000000000000044
+        },
+        "end": {
+          "z": 1.1,
+          "tx": -4.163336342344337e-17,
+          "ty": -0.050000000000000044
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.1,
+        "applied": 0.1,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 49452,
+        "mtimeNs": 1791739547675588800,
+        "sha256": "dc2d69fd5533a0880f3f1dd4247cccdd65f2dd3f3aa3e709aed1ce8964c71b92"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_04_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "2b2c1308a96746368134b7f5753ec089",
+      "durationFrames": 200,
+      "motionRequested": "pan_right",
+      "amount": 0.1,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "pan_right",
+        "start": {
+          "z": 1.1,
+          "tx": -4.163336342344337e-17,
+          "ty": -0.050000000000000044
+        },
+        "end": {
+          "z": 1.1,
+          "tx": -0.10000000000000005,
+          "ty": -0.050000000000000044
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.1,
+        "applied": 0.1,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 50536,
+        "mtimeNs": 1791739547725930400,
+        "sha256": "95926f2d5b1ef2b6a04a63141d1ec8b8f90aec38c5e7c26511925d6d618265b4"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_05_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "b4552e64951e46519ad8cb85df19fa3c",
+      "durationFrames": 200,
+      "motionRequested": "pan_up",
+      "amount": 0.1,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "pan_up",
+        "start": {
+          "z": 1.1,
+          "tx": -0.050000000000000044,
+          "ty": -0.10000000000000005
+        },
+        "end": {
+          "z": 1.1,
+          "tx": -0.050000000000000044,
+          "ty": -4.163336342344337e-17
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.1,
+        "applied": 0.1,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 49269,
+        "mtimeNs": 1791739547779482700,
+        "sha256": "3876ce24a6d825563161f71c59bea872cc8da275689083ed7e1a354c1ab85f67"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_06_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "c9692e0aec7743a5b19343b7f07f82c9",
+      "durationFrames": 200,
+      "motionRequested": "pan_down",
+      "amount": 0.1,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "pan_down",
+        "start": {
+          "z": 1.1,
+          "tx": -0.050000000000000044,
+          "ty": -4.163336342344337e-17
+        },
+        "end": {
+          "z": 1.1,
+          "tx": -0.050000000000000044,
+          "ty": -0.10000000000000005
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.1,
+        "applied": 0.1,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 50402,
+        "mtimeNs": 1791739547833050900,
+        "sha256": "1d5f190ab83c6a678f7cde434c99055067854388ece684000b7f3704a0e519c5"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_07_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "2f242b45ab1440a29c6fe13066e92c7f",
+      "durationFrames": 200,
+      "motionRequested": "zoom_in",
+      "amount": 0.08,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "zoom_in",
+        "start": {
+          "z": 1.0,
+          "tx": 0.0,
+          "ty": 0.0
+        },
+        "end": {
+          "z": 1.08,
+          "tx": -0.040000000000000036,
+          "ty": -0.040000000000000036
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.08,
+        "applied": 0.08000000000000007,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 49905,
+        "mtimeNs": 1791739547884893500,
+        "sha256": "9d37a94dc88a7821b45bad327137c82b3c9d4d891cd99d22f9b431b9d978a07f"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_08_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "e44a88227d4c494cbe0c38bd91a69930",
+      "durationFrames": 200,
+      "motionRequested": "pan_left",
+      "amount": 0.1,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "pan_left",
+        "start": {
+          "z": 1.1,
+          "tx": -0.10000000000000005,
+          "ty": -0.050000000000000044
+        },
+        "end": {
+          "z": 1.1,
+          "tx": -4.163336342344337e-17,
+          "ty": -0.050000000000000044
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.1,
+        "applied": 0.1,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 50455,
+        "mtimeNs": 1791739547935881900,
+        "sha256": "a72108fecca67c0934386f3235a25564bcf3be0f31b57771d036680022eef1ba"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_09_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "70b8edad34a7426da0aa1114e0d1676f",
+      "durationFrames": 200,
+      "motionRequested": "zoom_out",
+      "amount": 0.08,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "zoom_out",
+        "start": {
+          "z": 1.08,
+          "tx": -0.040000000000000036,
+          "ty": -0.040000000000000036
+        },
+        "end": {
+          "z": 1.0,
+          "tx": 0.0,
+          "ty": 0.0
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.08,
+        "applied": 0.08000000000000007,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 51301,
+        "mtimeNs": 1791739547983768100,
+        "sha256": "29fda4d52bd9273e5de0554cae2e0e7ec46bff0faac0ff9e0840489c1472f6da"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    },
+    {
+      "sourcePath": "assets/haber_10_örnek.png",
+      "sourceWidth": 1920,
+      "sourceHeight": 1080,
+      "id": "b9840c890c27464d9b474fca69e1664c",
+      "durationFrames": 200,
+      "motionRequested": "pan_down",
+      "amount": 0.1,
+      "easing": "linear",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "locked": false,
+      "protectContent": true,
+      "protectedRegions": [
+        [
+          0.15,
+          0.18,
+          0.85,
+          0.8
+        ]
+      ],
+      "motionResolved": {
+        "kind": "pan_down",
+        "start": {
+          "z": 1.1,
+          "tx": -0.050000000000000044,
+          "ty": -4.163336342344337e-17
+        },
+        "end": {
+          "z": 1.1,
+          "tx": -0.050000000000000044,
+          "ty": -0.10000000000000005
+        },
+        "easing": "linear",
+        "status": "ok",
+        "requested": 0.1,
+        "applied": 0.1,
+        "message": "Alan uygun"
+      },
+      "sourceFingerprint": {
+        "size": 49643,
+        "mtimeNs": 1791739548039711000,
+        "sha256": "273d8daadef89c8c847234e752ce7e7dd659c0a0bac070c0d8b33105d9b9e762"
+      },
+      "notes": [
+        "ICC profili yok; sRGB varsayıldı"
+      ],
+      "mediaError": ""
+    }
+  ]
+}

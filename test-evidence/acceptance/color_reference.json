@@ -1,0 +1,6 @@
+{
+  "swatches": 64,
+  "channels": "gray, red, green, blue",
+  "maxError8bit": 3,
+  "expected": "inverse sRGB EOTF then BT.709 OETF; BT.709 YUV matrix, limited range"
+}

@@ -1,0 +1,17 @@
+{
+  "diskFailureDuringPreparation": {
+    "error": "[Errno 28] Disk alanı işlem sırasında tükendi",
+    "previousOutputPreserved": true,
+    "simulated": true
+  },
+  "diskFailureAtCommit": {
+    "error": "[Errno 28] Disk metadata alanı dolu",
+    "previousOutputPreserved": true,
+    "simulated": true
+  },
+  "longTurkishPaths": {
+    "sourcePathLength": 348,
+    "outputPathLength": 340,
+    "frames": "25"
+  }
+}

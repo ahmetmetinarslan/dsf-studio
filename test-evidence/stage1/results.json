@@ -1,0 +1,224 @@
+{
+  "zoom_in": {
+    "frames": "200",
+    "plan": {
+      "kind": "zoom_in",
+      "start": {
+        "z": 1.0,
+        "tx": 0.0,
+        "ty": 0.0
+      },
+      "end": {
+        "z": 1.08,
+        "tx": -0.04,
+        "ty": -0.04
+      },
+      "easing": "linear",
+      "status": "unchecked_content",
+      "requested": 0.08,
+      "applied": 0.08,
+      "message": "İçerik koruması tanımlanmadı"
+    },
+    "pixels": {
+      "firstBounds": [
+        720,
+        360,
+        1202,
+        720
+      ],
+      "lastBounds": [
+        702,
+        346,
+        1222,
+        736
+      ],
+      "direction": "passed",
+      "edges": "passed"
+    }
+  },
+  "zoom_out": {
+    "frames": "200",
+    "plan": {
+      "kind": "zoom_out",
+      "start": {
+        "z": 1.08,
+        "tx": -0.04,
+        "ty": -0.04
+      },
+      "end": {
+        "z": 1.0,
+        "tx": 0.0,
+        "ty": 0.0
+      },
+      "easing": "linear",
+      "status": "unchecked_content",
+      "requested": 0.08,
+      "applied": 0.08,
+      "message": "İçerik koruması tanımlanmadı"
+    },
+    "pixels": {
+      "firstBounds": [
+        702,
+        346,
+        1222,
+        736
+      ],
+      "lastBounds": [
+        720,
+        360,
+        1202,
+        720
+      ],
+      "direction": "passed",
+      "edges": "passed"
+    }
+  },
+  "pan_left": {
+    "frames": "200",
+    "plan": {
+      "kind": "pan_left",
+      "start": {
+        "z": 1.1,
+        "tx": -0.1,
+        "ty": -0.05
+      },
+      "end": {
+        "z": 1.1,
+        "tx": 0.0,
+        "ty": -0.05
+      },
+      "easing": "linear",
+      "status": "unchecked_content",
+      "requested": 0.1,
+      "applied": 0.1,
+      "message": "İçerik koruması tanımlanmadı"
+    },
+    "pixels": {
+      "firstBounds": [
+        600,
+        342,
+        1130,
+        740
+      ],
+      "lastBounds": [
+        792,
+        342,
+        1322,
+        740
+      ],
+      "direction": "passed",
+      "edges": "passed"
+    }
+  },
+  "pan_right": {
+    "frames": "200",
+    "plan": {
+      "kind": "pan_right",
+      "start": {
+        "z": 1.1,
+        "tx": 0.0,
+        "ty": -0.05
+      },
+      "end": {
+        "z": 1.1,
+        "tx": -0.1,
+        "ty": -0.05
+      },
+      "easing": "linear",
+      "status": "unchecked_content",
+      "requested": 0.1,
+      "applied": 0.1,
+      "message": "İçerik koruması tanımlanmadı"
+    },
+    "pixels": {
+      "firstBounds": [
+        792,
+        342,
+        1322,
+        740
+      ],
+      "lastBounds": [
+        600,
+        342,
+        1130,
+        740
+      ],
+      "direction": "passed",
+      "edges": "passed"
+    }
+  },
+  "pan_up": {
+    "frames": "200",
+    "plan": {
+      "kind": "pan_up",
+      "start": {
+        "z": 1.1,
+        "tx": -0.05,
+        "ty": -0.1
+      },
+      "end": {
+        "z": 1.1,
+        "tx": -0.05,
+        "ty": 0.0
+      },
+      "easing": "linear",
+      "status": "unchecked_content",
+      "requested": 0.1,
+      "applied": 0.1,
+      "message": "İçerik koruması tanımlanmadı"
+    },
+    "pixels": {
+      "firstBounds": [
+        698,
+        288,
+        1226,
+        686
+      ],
+      "lastBounds": [
+        698,
+        396,
+        1226,
+        794
+      ],
+      "direction": "passed",
+      "edges": "passed"
+    }
+  },
+  "pan_down": {
+    "frames": "200",
+    "plan": {
+      "kind": "pan_down",
+      "start": {
+        "z": 1.1,
+        "tx": -0.05,
+        "ty": 0.0
+      },
+      "end": {
+        "z": 1.1,
+        "tx": -0.05,
+        "ty": -0.1
+      },
+      "easing": "linear",
+      "status": "unchecked_content",
+      "requested": 0.1,
+      "applied": 0.1,
+      "message": "İçerik koruması tanımlanmadı"
+    },
+    "pixels": {
+      "firstBounds": [
+        698,
+        396,
+        1226,
+        794
+      ],
+      "lastBounds": [
+        698,
+        288,
+        1226,
+        686
+      ],
+      "direction": "passed",
+      "edges": "passed"
+    }
+  }
+}

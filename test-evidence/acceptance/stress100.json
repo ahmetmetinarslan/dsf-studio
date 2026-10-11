@@ -1,0 +1,14 @@
+{
+  "path": "<workspace>\\artifacts\\acceptance\\stress100.mp4",
+  "elapsed": 481.658,
+  "peakMiB": 344.7,
+  "heartbeatTicks": 4399,
+  "maxHeartbeatGap": 0.129,
+  "images": 100,
+  "sourceResolution": "1920x1080",
+  "frames": 2500,
+  "durationSeconds": 100,
+  "clipDurationSeconds": 1,
+  "boundedQueue": 1,
+  "fullDecode": true
+}
