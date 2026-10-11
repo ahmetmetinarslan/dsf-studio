@@ -9,7 +9,7 @@ Haber görsellerine yavaş zoom/pan hareketleri uygulayan, korunacak alanları g
 3. `DSF-Studio/DSF-Studio.exe` dosyasını açın. Python veya FFmpeg kurulumu gerekmez.
 4. **Aç** ile `examples/Ornek_Haber.dsfproj` örneğini deneyin.
 
-Klasördeki `_internal` dizinini EXE ile birlikte tutun. GitHub'ın **Source code** arşivleri hazır uygulama değildir. Bu özel depoya ve indirmelere erişmek için GitHub hesabınızla giriş yapın.
+Klasördeki `_internal` dizinini EXE ile birlikte tutun. GitHub'ın **Source code** arşivleri hazır uygulama değildir. Depo ve indirmeler herkese açıktır; GitHub hesabı veya oturum açma gerekmez.
 
 ## İçerik
 
@@ -27,4 +27,4 @@ Windows 11 x64 üzerinde 40 birim testi; 2000 kare / 80 saniye video, altı hare
 
 Ayrı temiz Windows cihazı/VM ve Windows 10 testi yapılmadı. Gerçek hızda insan gözüyle titreme değerlendirmesi ve profesyonel yayın monitörü kontrolü açık. Disk dolması testleri hata enjeksiyonuyla yapıldı. EXE dijital imzalı değildir. Ayrıntılar depodaki `TEST_RESULTS.md` dosyasındadır.
 
-Paket kişisel kullanım için özel depoda tutulur. Üçüncü taraf bileşenlerin bildirimleri ve harici yeniden dağıtım için kaynak sağlama durumu `THIRD_PARTY_NOTICES.md` içindedir.
+Üçüncü taraf bileşenlerin bildirimleri ve harici yeniden dağıtım için kaynak sağlama durumu `THIRD_PARTY_NOTICES.md` içindedir.

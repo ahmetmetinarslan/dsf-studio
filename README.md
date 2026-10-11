@@ -8,7 +8,7 @@ Haber görsellerini yavaş zoom/pan hareketleriyle tek **1920×1080 MP4** videod
 
 ## Başka bir bilgisayarda indirip açma
 
-1. [Releases sayfasını](https://github.com/ahmetmetinarslan/dsf-studio/releases/latest) açın. Depo özel olduğundan **ahmetmetinarslan** hesabınızla GitHub'a giriş yapın.
+1. [Releases sayfasını](https://github.com/ahmetmetinarslan/dsf-studio/releases/latest) açın. Depo herkese açıktır; indirmek için GitHub hesabı veya oturum açma gerekmez.
 2. **Assets** bölümünden `DSF-Studio-1.0.0-Windows-x64.zip` dosyasını indirin. GitHub'ın otomatik oluşturduğu **Source code** arşivleri çalıştırılabilir uygulamayı içermez.
 3. ZIP'e sağ tıklayıp **Tümünü ayıkla** seçin. Çıkan `DSF-Studio` klasöründeki **`DSF-Studio.exe`** dosyasını çift tıklayın.
 4. Örneği denemek için **Aç** → `examples/Ornek_Haber.dsfproj` seçin. Pakette 10 temsili haber kartı ve `examples/Ornek_Haber_80sn.mp4` örnek çıktısı bulunur.
@@ -104,6 +104,6 @@ Hata bildirirken uygulama sürümünü, Windows sürümünü, yaptığınız iş
 
 ## Üçüncü taraf bileşenler
 
-Bu özel depo, uygulama ve kaynaklarını kendi bilgisayarlarınız arasında taşımak için hazırlanmıştır. Python, Qt/PySide6, Pillow ve FFmpeg bildirimleri [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) ve hazır paketin `licenses` klasöründedir. Harici yeniden dağıtım için aynı dosyadaki kaynak kodu sağlama durumunu inceleyin.
+Uygulama ve kaynakları bu herkese açık depodan indirilebilir. Python, Qt/PySide6, Pillow ve FFmpeg bildirimleri [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) ve hazır paketin `licenses` klasöründedir. Harici yeniden dağıtım için aynı dosyadaki kaynak kodu sağlama durumunu inceleyin.
 
 Teknik başvurular: [FFmpeg filtreleri](https://ffmpeg.org/ffmpeg-filters.html), [Qt QProcess](https://doc.qt.io/qtforpython-6/PySide6/QtCore/QProcess.html), [Pillow ImageCms](https://pillow.readthedocs.io/en/stable/reference/ImageCms.html).
